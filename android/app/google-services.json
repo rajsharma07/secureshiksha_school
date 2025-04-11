@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1037377632435",
+    "project_id": "shiksha-ca20b",
+    "storage_bucket": "shiksha-ca20b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037377632435:android:98e5d9a854f0653462d8c6",
+        "android_client_info": {
+          "package_name": "com.example.secureshiksha_school"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9h29j7hM0ERhxk6Dc2I594oBnxaWTcr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037377632435:android:d03914f7b426387e62d8c6",
+        "android_client_info": {
+          "package_name": "com.example.secureshiksha_students"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9h29j7hM0ERhxk6Dc2I594oBnxaWTcr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
